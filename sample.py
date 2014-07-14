@@ -1,3 +1,3 @@
 sample test git file
 something changed
-something
+something changed on master
